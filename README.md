@@ -4,6 +4,10 @@ Welcome to my collection of AI agents designed to streamline workflows and boost
 
 ---
 
+## About Me
+
+I am Kush Sharma, a leader and builder with a passion for product management, cybersecurity, solution & security architecture, and AI. Over my career, I have led teams to design and deliver products that are not only impactful but also secure and resilient. I enjoy turning complex challenges into clear strategies, then rolling up my sleeves to make them real. For me, the sweet spot is where innovation, security, and practicality meet — whether it’s shaping a product vision, strengthening cybersecurity defenses, or experimenting with AI to explore what’s next.
+
 ## 🚀 Featured AI Agents
 
 ### Blog Post Generator  
@@ -150,4 +154,4 @@ Ready to explore custom AI solutions for your organization? With my background i
 - **Risk-aware AI agent development**
 - **Custom solutions for government and corporate clients**
 
-[📧 Get in touch](mailto:kush@example.com) or [Connect on LinkedIn](https://www.linkedin.com/in/kushsharma7)
+[📧 Get in touch](mailto:kushsharma@outlook.com) or [Connect on LinkedIn](https://www.linkedin.com/in/kushsharma7)
